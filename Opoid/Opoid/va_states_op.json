@@ -1,0 +1,8802 @@
+[
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 487300
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 2033730
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 1321972
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 300820
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 168300
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 559100
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 370300
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 1460805
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 1297790
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 73440
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 807150
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 241500
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 435660
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 1506520
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 116000
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 2053130
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 307700
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 220600
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 569910
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 237800
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 375340
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 241600
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1435700
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 4368760
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 6727960
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 131300
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 1477850
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 429460
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 125300
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 1117200
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 38270
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 2534880
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 1703290
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 97200
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 345600
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 11575225
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 668485
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 629350
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 1808800
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 229230
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 264500
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 1480960
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 455520
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1263200
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1550640
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 656800
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 1128400
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 1164600
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 220500
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 123400
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 72700
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "GREENSVILLE",
+    "DOSAGE_UNIT": 318680
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 896800
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 3013720
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 2551210
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 2049580
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 7764250
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 1386100
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 824420
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 733200
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 1633920
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 179300
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 335275
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 451950
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 1665890
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 500630
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 3718963
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 600100
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 169400
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 2684070
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 117700
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 1233389
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 2731900
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 183700
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 777585
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 200700
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 2682360
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 239200
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 321100
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 3435060
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 3644740
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 461200
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 177000
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 912900
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 339150
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 886200
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 781700
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 550560
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 1037380
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 310300
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 370600
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 2879210
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 368600
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 502400
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 104500
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 4884918
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 2480700
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 797160
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 51000
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 127700
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 3241192
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 2455544
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 4188810
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 695000
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 2162845
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 1485480
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 2208050
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 896100
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 1622440
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "SOUTHAMPTON",
+    "DOSAGE_UNIT": 11800
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 2002420
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 2009806
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 1655200
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 1339920
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "SURRY",
+    "DOSAGE_UNIT": 22100
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 130700
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 3932200
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 7301128
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 1184975
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 2766590
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 1735000
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 227400
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 1693150
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 3954350
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 1355100
+  },
+  {
+    "Year": 2006,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 782800
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 614000
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 2223720
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 1536397
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 357420
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 208100
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 631400
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 416100
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 1545774
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 1460800
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 77600
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 947600
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 281000
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 511740
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 1668500
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 114000
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 2096890
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 375460
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 251900
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 692600
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 261700
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 481200
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 281100
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1462400
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 4634880
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 7508506
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 136600
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 1459240
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 545320
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 146400
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 1281916
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 59800
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 2345060
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 1824830
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 112800
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 305400
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 12661472
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 647053
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 657678
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 2110360
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 298300
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 279400
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 1838520
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 563500
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1527700
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1579840
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 778100
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 1372200
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 1244300
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 256200
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 146900
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 72300
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "GREENSVILLE",
+    "DOSAGE_UNIT": 343200
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 983500
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 3257560
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 2848200
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 2356400
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 8722834
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 1901800
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 920990
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 829100
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 1753700
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 203700
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 392900
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 594680
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 1572690
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 623500
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 4088683
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 710900
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 174800
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 3118350
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 118900
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 1312940
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 3064400
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 190700
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 927660
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 221800
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 3115540
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 284100
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 320300
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 3746060
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 4025920
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 550700
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 183200
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 1054100
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 407360
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 1080400
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 917900
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 667200
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 1219300
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 343600
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 407600
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 3254550
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 434100
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 554300
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 111040
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 5273487
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 2598500
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 921800
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 59700
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 123200
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 3704310
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 2978074
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 4890810
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 815300
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 2338200
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 1811280
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 2172790
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 1012700
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 2037970
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "SOUTHAMPTON",
+    "DOSAGE_UNIT": 10800
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 2379020
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 2245651
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 1885400
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 1676700
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "SURRY",
+    "DOSAGE_UNIT": 19500
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 158000
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 4142500
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 7674334
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 1296300
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 3340840
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 2014300
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 278900
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 1970575
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 4505460
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 1629520
+  },
+  {
+    "Year": 2007,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 853600
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 691400
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 2481080
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 1645200
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 403360
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 210600
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 750360
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 532660
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 1620500
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 1473900
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 84000
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 1074900
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 240700
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 558230
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 1806430
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 86400
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 2117900
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 385700
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 270500
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 697000
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 291660
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 576900
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 292600
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1537000
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 4699630
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 8061582
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 120300
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 1341140
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 617200
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 137600
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 1424560
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 81900
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 2600390
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 1656390
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 101300
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 351330
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 13741460
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 704920
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 718180
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 2426290
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 324400
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 353800
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 2128300
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 591100
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1538300
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1574540
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 937510
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 1493400
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 1219300
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 293820
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 154100
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 100700
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "GREENSVILLE",
+    "DOSAGE_UNIT": 437200
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 1016300
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 3254960
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 3029960
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 2536300
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 9363436
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 2165900
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 989820
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 810400
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 1650500
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 220400
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 431400
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 615460
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 1896670
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 751850
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 4575785
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 715700
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 186000
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 3470680
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 113400
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 1284500
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 3215530
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 189500
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 1041820
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 224100
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 3288560
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 327600
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 305700
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 3879090
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 4350350
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 564220
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 177800
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 1083620
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 435900
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 1099300
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 1128460
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 769200
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 1291600
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 411200
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 339100
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 3582259
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 366940
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 619700
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 117200
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 6168675
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 2815100
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 952200
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 61800
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 111100
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 4031580
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 3317444
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 5207140
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 924300
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 2443100
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 2130410
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 2228200
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 1136780
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 2216280
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "SOUTHAMPTON",
+    "DOSAGE_UNIT": 15500
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 2659970
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 2417752
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 1976200
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 1825400
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "SURRY",
+    "DOSAGE_UNIT": 19400
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 162100
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 4249760
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 7642477
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 1532200
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 3685160
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 2202630
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 284800
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 2227795
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 4653180
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 1758300
+  },
+  {
+    "Year": 2008,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 889300
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 702600
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 2714960
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 1825720
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 475550
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 227400
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 838660
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 606000
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 1751300
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 1533900
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 76500
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 1154260
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 213700
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 614320
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 1848900
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 98000
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 2136350
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 450400
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 301200
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 877700
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 284400
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 636100
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 299200
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1681500
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 5043070
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 8910670
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 120600
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 1539660
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 670510
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 166100
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 1565320
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 67600
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 2979640
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 1778310
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 98400
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 394900
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 15208870
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 783520
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 753160
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 2791452.00298
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 365700
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 393260
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 2374680
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 532200
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1560600
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1828780
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 997430
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 1462710
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 1335500
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 332580
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 173930
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 90100
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "GREENSVILLE",
+    "DOSAGE_UNIT": 572600
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 1127800
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 3500820
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 3426750
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 2848320
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 10561020
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 2610300
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 1201830
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 778900
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 1757720
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 226825
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 448800
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 689900
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 2095219
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 790500
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 4958990
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 744200
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 190000
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 4089930
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 131200
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 1502300
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 3403360
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 192000
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 1275320
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 256500
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 3289190
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 342880
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 338930
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 4101140
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 4614790
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 583800
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 182400
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 1211860
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 439800
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 1254500
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 1224330
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 825500
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 1488420
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 478400
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 346200
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 3727950
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 431840
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 671800
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 123730
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 7365170
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 2972890
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 961550
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 59600
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 147600
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 4599455
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 3736906
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 5832570
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 1069020
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 2449670
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 2538740
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 2273040
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 1169720
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 2179004
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "SOUTHAMPTON",
+    "DOSAGE_UNIT": 12900
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 3141300
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 2904600
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 2176450
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 1860880
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "SURRY",
+    "DOSAGE_UNIT": 16000
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 174800
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 4690910
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 8115030
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 1770620
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 3868550
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 2388630
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 314100
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 2201230
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 5073400
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 1867310
+  },
+  {
+    "Year": 2009,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 1074900
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 802300
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 2468940
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 2019900
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 522240
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 222100
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 843160
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 722000
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 1855600
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 1535100
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 93200
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 1300150
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 246660
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 632790
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 1870450
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 114700
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 2187770
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 498000
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 311400
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 917100
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 316600
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 674900
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 317100
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1510500
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 5658310
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 9321745
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 124000
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 1641300
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 683170
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 151620
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 1584800
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 94300
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 3088480
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 1921570
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 118200
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 437900
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 16209164
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 826540
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 933090
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 2912222.00036
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 453370
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 471200
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 2451000
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 566800
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1678000
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1807820
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 1095000
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 1494300
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 1477700
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 341280
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 185500
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 352200
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "GREENSVILLE",
+    "DOSAGE_UNIT": 615440
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 1244300
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 3820600
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 3605490
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 2951080
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 10811510
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 2541710
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 1343980
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 869500
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 2027970
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 260100
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 456500
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 791700
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 2092200
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 806600
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 5452560
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 811700
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 227040
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 4211370
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 144100
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 1678200
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 3540460
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 165800
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 1334290
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 273600
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 3175350
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 347900
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 370530
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 4262910
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 4938160
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 579380
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 189100
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 1262700
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 455200
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 1310700
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 1288900
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 912000
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 1590100
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 512200
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 433100
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 3902950
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 381380
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 691100
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 124980
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 8126220
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 3163200
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 886970
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 43600
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 133600
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 5174195
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 3876430
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 5852900
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 1137900
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 2480400
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 2609420
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 2372240
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 1265600
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 2180900
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "SOUTHAMPTON",
+    "DOSAGE_UNIT": 12800
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 3335880
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 3296396
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 2281600
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 2096140
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "SURRY",
+    "DOSAGE_UNIT": 18700
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 161230
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 4688541
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 9112878
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 1960700
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 4077100
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 2549200
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 333200
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 2278400
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 5214070
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 2042450
+  },
+  {
+    "Year": 2010,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 1150900
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 920300
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 2579670
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 2105510
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 610060
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 278400
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 1014250
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 829700
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 2074490
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 1613820
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 99100
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 1471360
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 276500
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 756110
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 2058200
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 138300
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 2226610
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 568700
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 345300
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 1040500
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 348500
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 801900
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 336000
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1794200
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 6266840
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 10640109
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 123600
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 1939440
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 777480
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 175330
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 1660200
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 160700
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 3437530
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 2391720
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 113200
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 489900
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 17457725
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 839720
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 981300
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 2989830
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 586680
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 583800
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 2675700
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 663100
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1957000
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1938490
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 1327420
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 1524330
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 1607500
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 338400
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 204000
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 594800
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "GREENSVILLE",
+    "DOSAGE_UNIT": 684400
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 1381370
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 4388640
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 4348960
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 3295260
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 11838310
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 2871740
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 1472100
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 954700
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 2298400
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 374530
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 523100
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 932560
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 2326300
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 907360
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 5355680
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 940120
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 272140
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 4817570
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 145500
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 1939280
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 4113520
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 195500
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 1704750
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 320100
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 3395680
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 385160
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 445100
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 4744770
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 5743000
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 591860
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 196200
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 1361380
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 504200
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 1511300
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 1486690
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 936500
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 1764950
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 621700
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 460100
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 4414460
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 463400
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 803000
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 144800
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 8752690
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 3422620
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 968000
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 27300
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 144700
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 5810170
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 4252360
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 6367650
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 1305600
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 2463600
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 2804000
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 2502450
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 1454900
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 2401270
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "SOUTHAMPTON",
+    "DOSAGE_UNIT": 15800
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 4073660
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 3786586
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 2412630
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 2379880
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "SURRY",
+    "DOSAGE_UNIT": 19100
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 173400
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 4863800
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 10327238
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 2174500
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 4459950
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 2727000
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 405920
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 2311230
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 5770451
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 1992880
+  },
+  {
+    "Year": 2011,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 1367900
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 841750
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 2589740
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 2199780
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 678100
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 271700
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 983850
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 963660
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 2199130
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 1642320
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 128800
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 1525450
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 315420
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 812280
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 2055310
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 142100
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 2312450
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 575690
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 351890
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 1109790
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 392360
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 864900
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 343000
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1967790
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 6348940
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 11026770
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 24400
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 1983890
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 788550
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 188160
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 1474940
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 137060
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 3377396.5
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 2307760
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 149250
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 468130
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 16959890
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 835000
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 814420
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 2741280
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 565560
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 580120
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 2783760
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 711300
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 2143080
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 2026220
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 1287060
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 1662230
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 1651990
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 371120
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 195100
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 671020
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "GREENSVILLE",
+    "DOSAGE_UNIT": 721760
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 1369840
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 4761670
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 4904155
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 3438920
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 12040744
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 2885920
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 1377830
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 1005850
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 2492970
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 471690
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 569400
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 924390
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 2378220
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 943830
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 5306945
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 982570
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 279500
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 5065085
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 167300
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 2047850
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 3869460
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 194190
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 1803760
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 311650
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 3412470
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 502050
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 469140
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 4913530
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 6251970
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 504900
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 229050
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 1380030
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 502900
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 1610800
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 1347620
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 908500
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 1856290
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 708970
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 512820
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 4797130
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 510780
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 815330
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 168400
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 8935380
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 3514200
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 1013690
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 22600
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 148530
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 5786680
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 4294090
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 6370380
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 1399960
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 2495450
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 2888750
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 2553146
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 1492070
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 2372665
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "SOUTHAMPTON",
+    "DOSAGE_UNIT": 17100
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 4485100
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 3545536
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 2556850
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 2391590
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 193000
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 4696350
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 10808190
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 1943080
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 4432100
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 2634400
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 417080
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 2333000
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 5688450
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 2021340
+  },
+  {
+    "Year": 2012,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 1400530
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 806000
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 2466245
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 2230310
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 683700
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 251000
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 1009250
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 989900
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 2341670
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 1613850
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 131200
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 1550620
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 296900
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 885930
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 2006600
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 142600
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 2001810
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 573520
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 331600
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 1104200
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 379600
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 841620
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 362800
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1931230
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 6121080
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 10741024
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 90000
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 1818760
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 729320
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 208690
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 1320730
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 139500
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 3285134
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 2584470
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 131560
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 415710
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 15380180
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 800550
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 590660
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 2314660
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 496440
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 567160
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 2634920
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 657130
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1950740
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1867030
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 1311480
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 1314990
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 1672870
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 348620
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 175100
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 671070
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "GREENSVILLE",
+    "DOSAGE_UNIT": 681920
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 1364140
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 4626360
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 4995943
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 3264300
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 11792938
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 2833480
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 1710300
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 970450
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 2529010
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 475620
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 564230
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 881360
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 2477600
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 926960
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 5266480
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 870130
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 282700
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 5088940
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 171300
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 1923960
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 3736640
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 184000
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 1666520
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 270730
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 3199316
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 538740
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 484410
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 5084820
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 5804144
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 527900
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 229460
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 1408970
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 462600
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 1497120
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 1104150
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 868500
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 1890060
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 751890
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 504140
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 4911980
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 561980
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 791200
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 151040
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 7768770
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 3139510
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 985800
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 17900
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 130200
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 5500530
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 4444380
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 6324500
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 1478020
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 2381480
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 2789790
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 2439130
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 1482220
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 2296940
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "SOUTHAMPTON",
+    "DOSAGE_UNIT": 20800
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 4036670
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 3044512
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 2445860
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 2400520
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 190440
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 5161510
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 10341120
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 1869430
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 4609360
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 2530650
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 337560
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 2152490
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 5687460
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 1954490
+  },
+  {
+    "Year": 2013,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 1291870
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 800500
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 2464910
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 2051920
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 617400
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 249980
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 1012460
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 1110100
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 2189680
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 1422030
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 146300
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 1523030
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 277920
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 741210
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 1884660
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 144300
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 2060480
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 620480
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 310020
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 1092700
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 362160
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 748920
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 351620
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1710220
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 6242470
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 10527230
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 136100
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 1712190
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 652600
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 212100
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 1341940
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 138700
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 3291970
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 2626820
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 129000
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 479920
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 14971390
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 766660
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 531970
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 2027390
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 469640
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 526100
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 2540970
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 691180
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1984690
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1891820
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 1273220
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 1233520
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 1686450
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 270880
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 190500
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 736610
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "GREENSVILLE",
+    "DOSAGE_UNIT": 726630
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 1282490
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 4541120
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 5225087
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 3316100
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 11597180
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 2676260
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 1819830
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 918470
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 2509090
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "KING AND QUEEN",
+    "DOSAGE_UNIT": 200
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 467300
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 534790
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 855250
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 2529200
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 907400
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 5331305
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 804460
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 262860
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 4897850
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 170600
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 1677620
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 3582890
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 171600
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 1600900
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 259300
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 3355816
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 499120
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 487590
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 4956610
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 5796964
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 544480
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 221900
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 1523930
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 516420
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 1484190
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 1036550
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 903900
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 2065990
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 685830
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 470270
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 5074250
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 587180
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 844800
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 80760
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 7473560
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 2714570
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 910100
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 27100
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 102100
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 5182120
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 4349880
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 6083280
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 1453140
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 2100400
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 2728880
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 2439000
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 1358080
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 2337660
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "SOUTHAMPTON",
+    "DOSAGE_UNIT": 13200
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 3935660
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 2829410
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 2302320
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 2539770
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 170050
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 5103550
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 10221162
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 1728330
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 4856900
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 2395360
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 292360
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 2004320
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 5317140
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 1924450
+  },
+  {
+    "Year": 2014,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 1252810
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 802000
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 2400430
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 1891010
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 612500
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 231320
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 995000
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 1025820
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 2084590
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 1255860
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 143030
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 1468560
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 286640
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 746390
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 1686870
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 151200
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 1944120
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 567240
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 262080
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 1022080
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 329520
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 601340
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 322000
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1690690
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 6149280
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 9826730
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 181540
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 1524140
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 587860
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 201930
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 1248780
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 110500
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 3145800
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 2280620
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 139860
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "EMPORIA CITY",
+    "DOSAGE_UNIT": 663040
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 476530
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 14442280
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 595820
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 444940
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 1865840
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 417260
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 560060
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 2363730
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 653870
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1851320
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1987650
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 1179500
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 1126340
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 1616610
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 197640
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 195700
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 663840
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 1213730
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 4262690
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 4738360
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 3195500
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 10513810
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 2437610
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 1901750
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 872940
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 2403230
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 466060
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 499260
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 778430
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 2401500
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 806520
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 5059970
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 713920
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 234060
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 4700210
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 143600
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 1488710
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 3148040
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 167300
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 1415680
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 233720
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 3119170
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 528950
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 433080
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 4743560
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 5595850
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 598660
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 202530
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 1374040
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 451660
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 1299850
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 977980
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 848820
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 1940450
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 656640
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 439560
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 4857610
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 494860
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 780640
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 7137500
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 2637610
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 793980
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 27500
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 95900
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 4758350
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 4384090
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 5600200
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "ROCKBRIDGE",
+    "DOSAGE_UNIT": 9100
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 1328760
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 1695020
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 2518360
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 2389550
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 1195020
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 2190350
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "SOUTHAMPTON",
+    "DOSAGE_UNIT": 12700
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 3484230
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 2630260
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 1960090
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 2748650
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 138280
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 4484820
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 9890060
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 1621450
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 4737630
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 2108200
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 271460
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 1872140
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 4954510
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 1866770
+  },
+  {
+    "Year": 2015,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 1117260
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 816840
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 2097970
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 1627510
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 603400
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 214620
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 895440
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 878310
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 1870420
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 1141060
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 99000
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 1427890
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 274900
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 662890
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 1646580
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 129660
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 1914560
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 503700
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 257080
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 966780
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 360930
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 572340
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 289300
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1501900
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 5829000
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 9002920
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 189210
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 1421040
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 544500
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 199710
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 1056330
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 110500
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 2985280
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 2191920
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 147700
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "EMPORIA CITY",
+    "DOSAGE_UNIT": 556700
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 412830
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 13230280
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 573440
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 400640
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 1775210
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 369320
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 492380
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 2174540
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 679010
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1773090
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1822940
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 1140060
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 1077320
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 1380170
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 181610
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 159800
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 589520
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 1179620
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 3375430
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 4511480
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 2926290
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 9772430
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 2285980
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "HIGHLAND",
+    "DOSAGE_UNIT": 51100
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 1791240
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 905490
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 2151440
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 493280
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 456760
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 621440
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 2398330
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 699850
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 4846410
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 613030
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 222720
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 4279880
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 149900
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 1374750
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 2879230
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 141460
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 1271330
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 210060
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 3138590
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 466000
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 416570
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 4014740
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 5349980
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 616800
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 166500
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 1271160
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 430370
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 1169390
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 869300
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 778900
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 1825460
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 587930
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 373730
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 4506790
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 459210
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 752160
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 400
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 6786180
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 2742300
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 791200
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 27400
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 100390
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 4234450
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 4157390
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 5409050
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "ROCKBRIDGE",
+    "DOSAGE_UNIT": 37920
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 1351990
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 1779000
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 2440920
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 2393700
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 1037670
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 2011690
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 2981120
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 2495870
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 1722880
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 2798390
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 123720
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 4000600
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 9291610
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 1572110
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 4339960
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 1903090
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 228380
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 1672190
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 4889790
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 1850500
+  },
+  {
+    "Year": 2016,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 968820
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 679150
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 1792100
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 1322490
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 516260
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 173630
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 814020
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 667280
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 1587540
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 941320
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 72460
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 1216610
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 211100
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 471180
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 1459320
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 95300
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 1633080
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 274920
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 180640
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 746820
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 317050
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 483410
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 222400
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1286100
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 4926080
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 7429565
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 180800
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 1151660
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 555260
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 179560
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 865870
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 87900
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 2625190
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 1903950
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 100680
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "EMPORIA CITY",
+    "DOSAGE_UNIT": 441250
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 317090
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 11037270
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 519110
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 312050
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 1552110
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 263260
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 404710
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 1863120
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 566940
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1543010
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1555230
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 1018040
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 926440
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 1135550
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 130970
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 135960
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 506800
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 994720
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 2669760
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 3679290
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 2382600
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 8149270
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 2054500
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "HIGHLAND",
+    "DOSAGE_UNIT": 49300
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 1666450
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 787700
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 1748500
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 417980
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 366100
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 459720
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 2165940
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 614460
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 4152370
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 497240
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 211680
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 3582120
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 138200
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 1151410
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 2405110
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 119510
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 963510
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 160880
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 2816830
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 313500
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 309950
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 3244250
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 4372900
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 556960
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 130600
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 1095030
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 363880
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 964870
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 755850
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 621720
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 1599050
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 480160
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 303600
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 3763500
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 405610
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 641140
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 200
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 5774790
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 2325400
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 697260
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 31900
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 82570
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 3283655
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 3777810
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 4744880
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "ROCKBRIDGE",
+    "DOSAGE_UNIT": 41200
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 1195880
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 1630160
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 2145140
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 2214510
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 871440
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 1530210
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 2477200
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 2254840
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 1390590
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 2480950
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 100700
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 3233520
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 7875490
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 1413060
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 3651170
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 1566300
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 190750
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 1303670
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 4119750
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 1522380
+  },
+  {
+    "Year": 2017,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 817430
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 575760
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 1399100
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 1109230
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 508500
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 144850
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 734680
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 598320
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 1362220
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 812240
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 60860
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 993280
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 187760
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 419670
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 1298800
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 73800
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 1482450
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 186100
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 199230
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 659970
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 313760
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 472220
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 189780
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1119340
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 4200530
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 5873740
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 160590
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 895250
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 454860
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 149500
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 707520
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 82200
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 2073950
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 1698440
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 59570
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "EMPORIA CITY",
+    "DOSAGE_UNIT": 353760
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 230100
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 8783710
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 484360
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 290420
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 1257130
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 228040
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 374620
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 1588060
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 449020
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1295420
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1253680
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 959860
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 747480
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 918050
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 117800
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 116160
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 405200
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 829250
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 2139170
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 2931610
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 2030500
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 6425930
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 1543870
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "HIGHLAND",
+    "DOSAGE_UNIT": 38600
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 1841090
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 666350
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 1569790
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 353180
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 304810
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 335000
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 1880180
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 539960
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 3483480
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 397960
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 171300
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 2956010
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 104260
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 956300
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 2190430
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 117640
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 805880
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 138080
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 2502750
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 236170
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 260290
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 2598690
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 3391020
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 552080
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 96600
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 811790
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 282740
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 806800
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 618500
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 530240
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 1147730
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 401900
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 202520
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 3042800
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 340860
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 580640
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 3400
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 4889420
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 2051680
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 583380
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "RAPPAHANNOCK",
+    "DOSAGE_UNIT": 23200
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 60290
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 2581799
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 3524310
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 3832630
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "ROCKBRIDGE",
+    "DOSAGE_UNIT": 37440
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 970030
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 1428640
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 1911780
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 1971380
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 744910
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 1272710
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 2172740
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 1989860
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 1127070
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 2074380
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 81360
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 2726400
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 6535810
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 1062580
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 3176560
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 1216040
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 172460
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 1073770
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 3506680
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 1338980
+  },
+  {
+    "Year": 2018,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 735090
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "ACCOMACK",
+    "DOSAGE_UNIT": 536190
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "ALBEMARLE",
+    "DOSAGE_UNIT": 1299560
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "ALEXANDRIA CITY",
+    "DOSAGE_UNIT": 1019040
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "ALLEGHANY",
+    "DOSAGE_UNIT": 434660
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "AMELIA",
+    "DOSAGE_UNIT": 135510
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "AMHERST",
+    "DOSAGE_UNIT": 691040
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "APPOMATTOX",
+    "DOSAGE_UNIT": 656280
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "ARLINGTON",
+    "DOSAGE_UNIT": 1220570
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "AUGUSTA",
+    "DOSAGE_UNIT": 775520
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "BATH",
+    "DOSAGE_UNIT": 60860
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "BEDFORD",
+    "DOSAGE_UNIT": 922470
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "BLAND",
+    "DOSAGE_UNIT": 178580
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "BOTETOURT",
+    "DOSAGE_UNIT": 412790
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "BRISTOL CITY",
+    "DOSAGE_UNIT": 1233580
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "BRUNSWICK",
+    "DOSAGE_UNIT": 58300
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "BUCHANAN",
+    "DOSAGE_UNIT": 1323240
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "BUCKINGHAM",
+    "DOSAGE_UNIT": 169000
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "BUENA VISTA CITY",
+    "DOSAGE_UNIT": 192100
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "CAMPBELL",
+    "DOSAGE_UNIT": 622260
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "CAROLINE",
+    "DOSAGE_UNIT": 303140
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "CARROLL",
+    "DOSAGE_UNIT": 479600
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "CHARLOTTE",
+    "DOSAGE_UNIT": 194100
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "CHARLOTTESVILLE CITY",
+    "DOSAGE_UNIT": 1009360
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "CHESAPEAKE CITY",
+    "DOSAGE_UNIT": 3835060
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "CHESTERFIELD",
+    "DOSAGE_UNIT": 5413600
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "CLARKE",
+    "DOSAGE_UNIT": 136870
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "COLONIAL HEIGHTS CITY",
+    "DOSAGE_UNIT": 819530
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "COVINGTON CITY",
+    "DOSAGE_UNIT": 510460
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "CRAIG",
+    "DOSAGE_UNIT": 129660
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "CULPEPER",
+    "DOSAGE_UNIT": 704420
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "CUMBERLAND",
+    "DOSAGE_UNIT": 69950
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "DANVILLE CITY",
+    "DOSAGE_UNIT": 1920380
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "DICKENSON",
+    "DOSAGE_UNIT": 1682730
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "DINWIDDIE",
+    "DOSAGE_UNIT": 76930
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "EMPORIA CITY",
+    "DOSAGE_UNIT": 282660
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "ESSEX",
+    "DOSAGE_UNIT": 200800
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "FAIRFAX",
+    "DOSAGE_UNIT": 8001760
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "FAIRFAX CITY",
+    "DOSAGE_UNIT": 461290
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "FALLS CHURCH CITY",
+    "DOSAGE_UNIT": 227920
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "FAUQUIER",
+    "DOSAGE_UNIT": 1167920
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "FLOYD",
+    "DOSAGE_UNIT": 247380
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "FLUVANNA",
+    "DOSAGE_UNIT": 336130
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "FRANKLIN",
+    "DOSAGE_UNIT": 1496670
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "FRANKLIN CITY",
+    "DOSAGE_UNIT": 393570
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "FREDERICK",
+    "DOSAGE_UNIT": 1187590
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "FREDERICKSBURG CITY",
+    "DOSAGE_UNIT": 1049540
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "GALAX CITY",
+    "DOSAGE_UNIT": 1112140
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "GILES",
+    "DOSAGE_UNIT": 690080
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "GLOUCESTER",
+    "DOSAGE_UNIT": 841800
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "GOOCHLAND",
+    "DOSAGE_UNIT": 93910
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "GRAYSON",
+    "DOSAGE_UNIT": 119800
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "GREENE",
+    "DOSAGE_UNIT": 341530
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "HALIFAX",
+    "DOSAGE_UNIT": 817100
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "HAMPTON CITY",
+    "DOSAGE_UNIT": 1929430
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "HANOVER",
+    "DOSAGE_UNIT": 2730860
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "HARRISONBURG CITY",
+    "DOSAGE_UNIT": 1800810
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "HENRICO",
+    "DOSAGE_UNIT": 5742390
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "HENRY",
+    "DOSAGE_UNIT": 1242640
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "HIGHLAND",
+    "DOSAGE_UNIT": 36700
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "HOPEWELL CITY",
+    "DOSAGE_UNIT": 1911840
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "ISLE OF WIGHT",
+    "DOSAGE_UNIT": 597250
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "JAMES CITY",
+    "DOSAGE_UNIT": 1427800
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "KING GEORGE",
+    "DOSAGE_UNIT": 348960
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "KING WILLIAM",
+    "DOSAGE_UNIT": 267900
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "LANCASTER",
+    "DOSAGE_UNIT": 280930
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "LEE",
+    "DOSAGE_UNIT": 1846150
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "LEXINGTON CITY",
+    "DOSAGE_UNIT": 537710
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "LOUDOUN",
+    "DOSAGE_UNIT": 3220010
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "LOUISA",
+    "DOSAGE_UNIT": 371760
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "LUNENBURG",
+    "DOSAGE_UNIT": 158800
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "LYNCHBURG CITY",
+    "DOSAGE_UNIT": 2780900
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "MADISON",
+    "DOSAGE_UNIT": 101200
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "MANASSAS CITY",
+    "DOSAGE_UNIT": 904680
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "MARTINSVILLE CITY",
+    "DOSAGE_UNIT": 2019040
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "MATHEWS",
+    "DOSAGE_UNIT": 108820
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "MECKLENBURG",
+    "DOSAGE_UNIT": 747610
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "MIDDLESEX",
+    "DOSAGE_UNIT": 127880
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "MONTGOMERY",
+    "DOSAGE_UNIT": 2427270
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "NELSON",
+    "DOSAGE_UNIT": 186940
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "NEW KENT",
+    "DOSAGE_UNIT": 267520
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "NEWPORT NEWS CITY",
+    "DOSAGE_UNIT": 2307850
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "NORFOLK CITY",
+    "DOSAGE_UNIT": 2996790
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "NORTHAMPTON",
+    "DOSAGE_UNIT": 625000
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "NORTHUMBERLAND",
+    "DOSAGE_UNIT": 89430
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "NORTON CITY",
+    "DOSAGE_UNIT": 711310
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "NOTTOWAY",
+    "DOSAGE_UNIT": 271700
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "ORANGE",
+    "DOSAGE_UNIT": 723160
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "PAGE",
+    "DOSAGE_UNIT": 548520
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "PATRICK",
+    "DOSAGE_UNIT": 528470
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "PETERSBURG CITY",
+    "DOSAGE_UNIT": 903160
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "PITTSYLVANIA",
+    "DOSAGE_UNIT": 405940
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "POQUOSON CITY",
+    "DOSAGE_UNIT": 179770
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "PORTSMOUTH CITY",
+    "DOSAGE_UNIT": 2564600
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "POWHATAN",
+    "DOSAGE_UNIT": 340880
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "PRINCE EDWARD",
+    "DOSAGE_UNIT": 472390
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "PRINCE GEORGE",
+    "DOSAGE_UNIT": 13290
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "PRINCE WILLIAM",
+    "DOSAGE_UNIT": 4571040
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "PULASKI",
+    "DOSAGE_UNIT": 2054320
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "RADFORD",
+    "DOSAGE_UNIT": 548320
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "RICHMOND",
+    "DOSAGE_UNIT": 59560
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "RICHMOND CITY",
+    "DOSAGE_UNIT": 2277650
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "ROANOKE",
+    "DOSAGE_UNIT": 3373840
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "ROANOKE CITY",
+    "DOSAGE_UNIT": 3387420
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "ROCKBRIDGE",
+    "DOSAGE_UNIT": 40300
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "ROCKINGHAM",
+    "DOSAGE_UNIT": 955410
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "RUSSELL",
+    "DOSAGE_UNIT": 1478740
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "SALEM",
+    "DOSAGE_UNIT": 1759170
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "SCOTT",
+    "DOSAGE_UNIT": 1881030
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "SHENANDOAH",
+    "DOSAGE_UNIT": 692880
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "SMYTH",
+    "DOSAGE_UNIT": 1246530
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "SPOTSYLVANIA",
+    "DOSAGE_UNIT": 2225700
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "STAFFORD",
+    "DOSAGE_UNIT": 1856080
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "STAUNTON CITY",
+    "DOSAGE_UNIT": 1002330
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "SUFFOLK CITY",
+    "DOSAGE_UNIT": 1797120
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "SUSSEX",
+    "DOSAGE_UNIT": 90020
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "TAZEWELL",
+    "DOSAGE_UNIT": 2581790
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "VIRGINIA BEACH CITY",
+    "DOSAGE_UNIT": 5809550
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "WARREN",
+    "DOSAGE_UNIT": 919300
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "WASHINGTON",
+    "DOSAGE_UNIT": 2891270
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "WAYNESBORO CITY",
+    "DOSAGE_UNIT": 1048110
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "WESTMORELAND",
+    "DOSAGE_UNIT": 188010
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "WINCHESTER CITY",
+    "DOSAGE_UNIT": 871570
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "WISE",
+    "DOSAGE_UNIT": 3153070
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "WYTHE",
+    "DOSAGE_UNIT": 1284450
+  },
+  {
+    "Year": 2019,
+    "BUYER_COUNTY": "YORK",
+    "DOSAGE_UNIT": 638270
+  }
+]
