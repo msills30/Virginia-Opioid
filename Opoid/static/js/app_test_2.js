@@ -20,11 +20,11 @@ fetch('../va_states_op.json')
       .attr("value", countyname => countyname);
 
     // Call the optionChanged function with the initial value
-    optionChanged(CountyNames[0]);
+    countyOptionChanged(CountyNames[0]);
   });
 
 // Define the optionChanged function
-function optionChanged(selectedCounty) {
+function countyOptionChanged(selectedCounty) {
   // Filter data for the selected county
   const filteredData = data.filter(item => item.BUYER_COUNTY === selectedCounty);
   
@@ -63,7 +63,7 @@ fetch('../va_opioid_company.json')
   .then(response_1 => response_1.json())
   .then(jsonData_1 => {
     data_1 = jsonData_1; // Assign the fetched data to the outer "data" variable
-    const dropdownMenu = d4.select("#selCompany");
+    const dropdownMenu = d3.select("#selCompany");
     
     const CompanyNames = [...new Set(data_1.map(item_1 => item_1.Combined_Labeler_Name))];
 
@@ -77,11 +77,11 @@ fetch('../va_opioid_company.json')
       .attr("value", companyname => companyname);
 
     // Call the optionChanged function with the initial value
-    optionChanged(CompanyNames[0]);
+    companyOptionChanged(CompanyNames[0]);
   });
 
 // Define the optionChanged function
-function optionChanged(selectedCompany) {
+function companyOptionChanged(selectedCompany) {
   // Filter data for the selected company
   const filteredData_1 = data_1.filter(item_1 => item_1.Combined_Labeler_Name === selectedCompany);
     // Extract year and dosage_unit values for the selected county
@@ -110,6 +110,6 @@ function optionChanged(selectedCompany) {
     },
   };
 
-  Plotly.newPlot('bar', [CompanyPlot], layout);
+  Plotly.newPlot('bar_1', [CompanyPlot], layout);
 
 }
